@@ -1,0 +1,13 @@
+input{
+    border-radius: 10px ;
+    
+}
+.display{
+    text-align: right;
+   background-color: rgb(230, 229, 229);
+   font-size: 70px;
+    height: 100px;
+    width: 330px;
+    border-radius: 20px solid black;
+   
+}
